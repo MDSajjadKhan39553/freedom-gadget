@@ -1,0 +1,39 @@
+
+.nab{
+    float: right;
+    background-color: #fff;
+}
+.price{
+    background-color:black;
+    color:white ;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.see{
+    color: #FF9D00;
+    float: right;
+}
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(240, 236, 236);
+    text-align: center;
+    padding: 30px;
+}
+.con{
+    margin-top: 30px;
+}
+.cat{
+    text-align: center;
+    margin-top:100px ;
+}
+.line{
+    height: 8px;
+    width: 110px;
+    border-radius: 50px;
+    background-image:linear-gradient(to left,#FF9E34,#FFCB1B);
+    position: relative;
+    left: 46%;
+    margin-top: 5px;
+}
